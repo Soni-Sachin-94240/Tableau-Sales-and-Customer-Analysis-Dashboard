@@ -1,14 +1,18 @@
 # Tableau - Sales/Customer Analysis Dashboard
 
+## Problem Statement
+
+The objective of the Sales and Customer Analysis Dashboard is to provide real-time insights into sales performance and profitability, focusing on identifying areas for improvement and future growth. By analyzing current sales data and profitability metrics, the dashboard aims to uncover trends, opportunities, and potential loopholes that could impact business success. Through intuitive visualizations and interactive features, stakeholders will gain a clear understanding of their sales status and profitability, enabling informed decision-making to drive revenue growth. The dashboard will prioritize actionable insights to address identified loopholes and capitalize on emerging trends for sustained business improvement.
+
+## Outcome Dashboard
+
 ![SD 00 Sales Analysis Dashboard](https://github.com/Soni-Sachin-94240/Tableau-Sales-and-Customer-Analysis-Dashboard/assets/132342151/232a2528-739b-4989-8972-04afe3825256)
 
 ![CD 00 Customer Dashboard](https://github.com/Soni-Sachin-94240/Tableau-Sales-and-Customer-Analysis-Dashboard/assets/132342151/ce479855-7307-4e2d-8cc9-d7fd37662f2c)
 
 
 
-## Problem Statement
 
-The objective of the Sales and Customer Analysis Dashboard is to provide real-time insights into sales performance and profitability, focusing on identifying areas for improvement and future growth. By analyzing current sales data and profitability metrics, the dashboard aims to uncover trends, opportunities, and potential loopholes that could impact business success. Through intuitive visualizations and interactive features, stakeholders will gain a clear understanding of their sales status and profitability, enabling informed decision-making to drive revenue growth. The dashboard will prioritize actionable insights to address identified loopholes and capitalize on emerging trends for sustained business improvement.
 
 ### Datasource
      CSV files: Customers, Orders, Location and Products
