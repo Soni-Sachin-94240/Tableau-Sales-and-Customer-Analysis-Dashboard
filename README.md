@@ -106,4 +106,11 @@ The objective of the Sales and Customer Analysis Dashboard is to provide real-ti
 
 ### Conclusion
 
-The Sales and Customer Dashboard offers a comprehensive solution for businesses to analyze and optimize their sales performance and customer engagement strategies. By providing insightful metrics, comparative analyses, and interactive visualizations, this tool empowers users to make data-driven decisions, identify growth opportunities, and enhance overall business effectiveness. With its customizable features and user-friendly interface, the dashboard serves as a valuable asset in driving business success.
+In conclusion, the Sales and Customer Analysis Dashboard serves as a powerful tool for businesses to assess and enhance their sales performance and customer engagement strategies. Through insightful metrics, it enables users to:
+
+#### Sales Dashboard
+- Gain a clear understanding of current sales, profit, and quantity sold by comparing with previous years, facilitating informed decision-making.
+- Identify areas for improvement by differentiating sales by subcategory and comparing them with previous years' sales, while also displaying current year profit & loss. This allows for targeted actions to be taken to address underperforming subcategories.
+- Recognize sales and profit trends, highlighting months or areas with lower performance. This empowers businesses to devise strategies to improve performance during these periods and in specific regions, driving overall growth and success.
+
+By leveraging these features, businesses can proactively address challenges, capitalize on opportunities, and optimize their sales and customer engagement efforts for sustained success
