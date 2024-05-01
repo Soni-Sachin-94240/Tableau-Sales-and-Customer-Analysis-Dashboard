@@ -113,4 +113,9 @@ In conclusion, the Sales and Customer Analysis Dashboard serves as a powerful to
 - Identify areas for improvement by differentiating sales by subcategory and comparing them with previous years' sales, while also displaying current year profit & loss. This allows for targeted actions to be taken to address underperforming subcategories.
 - Recognize sales and profit trends, highlighting months or areas with lower performance. This empowers businesses to devise strategies to improve performance during these periods and in specific regions, driving overall growth and success.
 
-By leveraging these features, businesses can proactively address challenges, capitalize on opportunities, and optimize their sales and customer engagement efforts for sustained success
+#### Customer Dashboard
+- Obtain a clear understanding of current customer demographics, total orders, and sales per customer by comparing them with previous years, thereby facilitating informed decision-making.
+- Conduct customer retention analysis by examining the distribution of customers based on their order frequency. For instance, approximately 30% of customers placed only one order, and another 30% placed only two orders in the current year. To boost sales, efforts should focus on increasing the frequency of customer orders.
+- Identify top customers based on profitability and analyze their order history to determine the number of orders they have placed
+
+By leveraging these features, businesses can proactively address challenges, capitalize on opportunities, and optimize their sales and customer engagement efforts for sustained success.
