@@ -8,7 +8,7 @@
 
 ## Problem Statement
 
-Developing a Sales/Customer Analysis Dashboard to track and visualize key metrics, enabling data-driven decision-making. This dashboard will provide insights into sales performance, compare current versus previous year sales and profits, analyze sales and profits over time, and detail customer and order distribution through interactive KPIs, charts, and graphs. Users can customize views, filter data, and identify growth opportunities, optimizing business strategies.
+The objective of the Sales and Customer Analysis Dashboard is to provide real-time insights into sales performance and profitability, focusing on identifying areas for improvement and future growth. By analyzing current sales data and profitability metrics, the dashboard aims to uncover trends, opportunities, and potential loopholes that could impact business success. Through intuitive visualizations and interactive features, stakeholders will gain a clear understanding of their sales status and profitability, enabling informed decision-making to drive revenue growth. The dashboard will prioritize actionable insights to address identified loopholes and capitalize on emerging trends for sustained business improvement.
 
 ### Datasource
      CSV files: Customers, Orders, Location and Products
